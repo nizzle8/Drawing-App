@@ -45,3 +45,7 @@ canvas {
 .toolbox > *:last-child {
     margin-left: auto;
 }
+
+.active {
+    border: 5px solid gold;
+}
